@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">충전 토글</string>
+    <string name="setup_title">충전 토글 설정/진단</string>
+    <string name="tile_label">충전 제한</string>
+    <string name="shortcut_diag">설정/진단</string>
+</resources>
